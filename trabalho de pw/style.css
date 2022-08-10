@@ -7,18 +7,7 @@ background-color: rgb(15, 14, 14);
 .accordion-body{
     font-family: monospace; 
 }
-.container{
-    
-}
 .figure-caption{
     font-family: monospace; color: rgb(255, 255, 255);
 }
-#img{
-    position: absolute;
-    left: 49em;
-}
-.figure-caption{
-    position: absolute;
-    bottom: -180px;
-    text-align: center;
-}
+
